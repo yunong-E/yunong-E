@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yunong-E
 - 👀 I’m interested in playing with Hamter
-- 🌱 I’m currently learning Python ad Data Science
+## 🌱 I’m currently learning Python and Data Science
 
 <!---
 yunong-E/yunong-E is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
